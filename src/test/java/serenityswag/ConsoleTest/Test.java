@@ -33,7 +33,7 @@ public class Test {
             } catch (Exception e) {
                 driver.navigate().refresh();
 
-                System.out.println("Product not stock");
+                System.out.println("Product not in stock");
 
             }
 
