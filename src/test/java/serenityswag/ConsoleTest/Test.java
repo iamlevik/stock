@@ -22,7 +22,7 @@ public class Test {
         do {
 
             try {
-                driver.findElement(By.xpath("//span[contains(text(),'In stosc')]"));
+                driver.findElement(By.xpath("//span[contains(text(),'In stoc')]"));
 
 
                 stock = false;
